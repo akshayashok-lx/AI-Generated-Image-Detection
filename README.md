@@ -84,7 +84,7 @@ The folder names (`real`, `fake`) act as class labels.
 
 ## 1️⃣ Clone the Repository
 
-git clone https://github.com/akshayashok-lx/ai-image-detection.git
+git clone https://github.com/akshayashok-lx/Ai-Generated-Image-Detection.git
 cd ai-image-detection
 
 ---
@@ -233,4 +233,5 @@ Machine Learning | Deep Learning | GenAI Enthusiast
 ⭐ If you found this project useful, give it a star!
 
 streamlit run app.py
+
 
